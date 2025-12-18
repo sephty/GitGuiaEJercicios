@@ -10,3 +10,6 @@ Ejercicios que entrenan los músculos para trabajar juntos, simulan tareas diari
 ## Instrucciones
 1. Usa pesos libres.
 2. Enfócate en movimientos multi-articulares.
+
+## Consejos
+- Prioriza la calidad del movimiento.
