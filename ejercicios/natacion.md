@@ -10,3 +10,6 @@ Deporte completo que utiliza la resistencia del agua para trabajar casi todos lo
 ## Instrucciones
 1. Calienta fuera del agua.
 2. Alterna estilos (crol, espalda, braza) para variar el esfuerzo.
+
+## Consejos
+- Usa gafas para proteger tus ojos del cloro.
