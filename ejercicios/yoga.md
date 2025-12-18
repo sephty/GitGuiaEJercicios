@@ -10,3 +10,7 @@ Práctica física y mental que conecta el cuerpo, la respiración y la mente.
 ## Instrucciones
 1. Encuentra un lugar tranquilo.
 2. Sigue una secuencia de asanas.
+
+## Consejos
+- Escucha a tu cuerpo.
+- Concéntrate en la respiración.
