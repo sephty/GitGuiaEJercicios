@@ -10,3 +10,6 @@ Sistema de entrenamiento de bajo impacto que se centra en fortalecer los múscul
 ## Instrucciones
 1. Realiza movimientos controlados y precisos.
 2. Mantén la concentración en la respiración y el centro.
+
+## Consejos
+- La calidad del movimiento es más importante que la cantidad.
