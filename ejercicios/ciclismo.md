@@ -10,3 +10,6 @@ Ejercicio aeróbico que se realiza en bicicleta, ideal para mejorar la resistenc
 ## Instrucciones
 1. Ajusta el sillín a la altura de tu cadera.
 2. Mantén un pedaleo constante y fluido.
+
+## Consejos
+- *Usa siempre casco y ropa visible.*
