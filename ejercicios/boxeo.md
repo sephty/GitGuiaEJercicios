@@ -10,3 +10,6 @@ Deporte de combate que combina fuerza, velocidad y estrategia, utilizando los pu
 ## Instrucciones
 1. Mantén una guardia alta y firme.
 2. Practica combinaciones básicas de golpes (Jab, Directo, Cruzado).
+
+## Consejos
+- Venda tus manos correctamente para proteger las muñecas.
