@@ -6,3 +6,7 @@ Deporte completo que utiliza la resistencia del agua para trabajar casi todos lo
 ## Beneficios
 - Aumenta la capacidad pulmonar.
 - Ideal para rehabilitación de lesiones.
+
+## Instrucciones
+1. Calienta fuera del agua.
+2. Alterna estilos (crol, espalda, braza) para variar el esfuerzo.
